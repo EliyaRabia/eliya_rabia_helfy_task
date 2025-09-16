@@ -8,6 +8,7 @@ The UI includes a carousel-style task card view, a modal form for editing tasks,
 Styling was implemented with custom CSS, including responsive layouts, filter buttons, and SVG-based icons for actions.
 
 <hr>
+
 ## Backend Setup
 1. cd backend
 2. npm install
